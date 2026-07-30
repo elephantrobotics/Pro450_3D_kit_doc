@@ -42,9 +42,9 @@ robot_ip要改成机械臂的实际的无线IP -->
 
 **注意事项**：相机每次重新上电后，需要对相机的参数进行重新调整，确保点云的成像质量
 
-<video width="800" controls>
+<!-- <video width="800" controls>
   <source src="../img/Operating_steps.mp4" type="video/mp4">
-</video>
+</video> -->
 
 
 
