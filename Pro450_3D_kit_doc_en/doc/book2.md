@@ -12,9 +12,9 @@ Place each item in its corresponding position according to the preview image bel
 
 Refer to the 0-30 second segment of the Pro450 unboxing video to complete the installation of the robotic arm and the IP address assignment for the USB-to-Ethernet adapter.
 
-<video width="800" controls>
+<video width="600" controls>
 
-<source src="https://download.elephantrobotics.com/software/MyCobot%20Pro%20450/myCobot%20Pro%20450%20%E5%BC%80%E7%AE%B1%E8%A7%86%E9%A2%91%200720%2001.mp4">
+<source src="https://download.elephantrobotics.com/software/MyCobot%20Pro%20450/myCobot%20Pro%20450%20Base%20Plate%20Installation.mp4">
 
 </video>
 
@@ -26,7 +26,9 @@ Place the camera on the desktop. When placing it, make sure the camera's connect
 
 Refer to the steps below to install the camera flange onto the camera.
 
-<img src="../img/450_3.png" style="zoom: 60%;" <img src="../img/450_4.png" style="zoom: 40%;" />
+<img src="../img/450_3.png" style="zoom: 60%;"/>
+
+<img src="../img/450_4.png" style="zoom: 40%;" />
 
 <img src="../img/450_5.png" style="zoom: 60%;" />
 
@@ -97,3 +99,8 @@ Finally, connect the control wire from the suction pump box to the output end of
 Image showing the finished installation.
 
 <img src="../img/show.png" style="zoom: 50%;" /> -->
+
+
+---
+
+[← Previous Chapter](./book1.md) | [Next Chapter →](./book3.md)

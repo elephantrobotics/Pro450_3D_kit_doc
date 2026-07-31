@@ -92,3 +92,7 @@ There are four major parts of Gitbook :
 - Twitter: myCobot Official\@CobotMy
 - Facebook: [https://www.facebook.com/MyCobot-116558893805177](https://www.facebook.com/MyCobot-116558893805177)
 - Mail: <support@elephantrobotics.com>
+
+---
+
+[← Previous Chapter](./README.md) | [Next Chapter →](./doc/1.1-introduction.md)

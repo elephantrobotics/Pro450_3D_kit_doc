@@ -21,21 +21,35 @@ Simply move the mouse over the Wi-Fi icon to display the wireless IP.
 <!-- Refer to the camera debugging section in the video tutorial: https://www.bilibili.com/video/BV1xxTNzxEL2/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f>
 **Video section time points: 1 minute 44 seconds to 2 minutes 46 seconds> -->
 
-Change the IP address of the wired network card connected to the camera to automatic assignment. The connection between the camera and the computer must be direct; it cannot be connected via a USB-to-Ethernet adapter.
+Change the IP address of the wired network adapter connected to the camera to automatic assignment. The connection between the camera and the computer must be direct; it cannot be connected via a USB-to-Ethernet adapter.
 
-<img src="../img/new1.png" style="zoom: 50%;" />
+<img src="../img/new1.png" style="zoom: 30%;" />
 
-Open the camera's parameter adjustment software and connect the camera.
+The camera parameter file is located in the runtime\location_demo directory of the RobotVisionSuite installation directory.
+
+<img src="../img/450_19.png" style="zoom: 48%;" />
+
+Refer to the animated image below. Open the camera parameter adjustment software, connect the camera, and load the camera parameters. After the camera parameters are loaded, be sure to close the camera parameter adjustment software; otherwise, it will cause camera resource usage issues later.
+
+<img src="../img/450_cam.gif" style="zoom: 100%;" />
+
+**Important Notes:** The camera parameters need to be readjusted after each power cycle to ensure point cloud imaging quality; otherwise, point cloud matching may fail.
+
+<!-- Open the camera parameter adjustment software and connect the camera.
 
 <img src="../img/new3.png" style="zoom: 50%;" />
 
-First, click the camera's color image and depth image acquisition buttons, then click the color point cloud mode. Adjust the camera's gain parameters as needed. The parameters in Left IR Stream and Right IR Stream should be consistent. The point cloud adjustment should match the effect shown in the image. After adjusting, be sure to close the camera parameter adjustment software.
+First, click the camera's color image and depth image acquisition buttons. Then, click the color point cloud mode and adjust the camera's gain parameters. Adjust as needed, ensuring consistency in the parameters for Left IR Stream and Right IR Stream. The point cloud adjustment should match the effect shown in the image. After adjusting, be sure to close the camera parameter adjustment software.
 
-<img src="../img/new2.png" style="zoom: 50%;" />
+<img src="../img/new2.png" style="zoom: 50%;" /> -->
 
-**Important Notes**: The camera parameters need to be readjusted every time the camera is powered on to ensure the image quality of the point cloud.
+<!-- <video width="800" controls>
 
-<!-- For detailed instructions, please refer to the video, which can be downloaded to your local computer for viewing. Video address: https://github.com/elephantrobotics/Pro3D_Kit/blob/mv/rvs_cam.mp4
+<source src="../img/Operating_steps.mp4" type="video/mp4">
+
+</video> -->
+
+<!-- Please refer to the video for detailed instructions. You can download it to your local computer to watch. Video address: https://github.com/elephantrobotics/Pro3D_Kit/blob/mv/rvs_cam.mp4
 
 Point cloud after parameter adjustment
 
@@ -47,13 +61,13 @@ Point cloud after parameter adjustment
 
 Then select the demo.rvs file in the location_demo folder.
 
-<img <img src="../img/rvs2.png" style="zoom: 50%;" />
+<img src="../img/rvs2.png" style="zoom: 50%;" />
 
-Then click Run
+Then click Run.
 
 <img src="../img/rvs3.png" style="zoom: 50%;" />
 
-Wait for the camera to initialize
+Wait for the camera to initialize.
 
 <img src="../img/rvs4.png" style="zoom: 50%;" />
 
@@ -61,10 +75,14 @@ Wait for the camera to initialize
 
 <img src="../img/rvs5.png" style="zoom: 50%;" />
 
-After the camera initializes successfully, click the interactive panel, then click Manual Trigger
+After the camera initializes successfully, click the interaction panel, then click Manual Trigger.
 
 <img src="../img/rvs6.png" style="zoom: 50%;" />
 
-Showing video output is sufficient.
+Once there is video output, that's it.
 
 <img src="../img/rvs7.png" style="zoom: 50%;" /> -->
+
+---
+
+[← Previous Chapter](./book2.md) | [Next Chapter →](./hand_eye.md)
