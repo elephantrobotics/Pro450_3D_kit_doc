@@ -30,7 +30,9 @@ Wait for the camera to initialize.
 
 <br/>
 
-<img src="../img/rvs5.png" style="zoom: 50%;" Run the demo.py file in the demo_code folder within the location_demo folder.
+<img src="../img/rvs5.png" style="zoom: 50%;" />
+
+Run the demo.py file in the demo_code folder within the location_demo folder.
 
 <img src="../img/450_16.png" style="zoom: 85%;" />
 
