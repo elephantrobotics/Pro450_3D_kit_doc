@@ -9,7 +9,7 @@
 ##  5.1 工件摆放
 将PVC工件摆放到托盘内,工件之间不能堆叠,必须是平整摆放
 
-<img src="../img/PVC.png" style="zoom: 100%;" />
+<img src="../img/PVC.png" style="zoom: 200%;" />
 
 
 
@@ -26,7 +26,7 @@
 
 然后选择location_demo文件夹下的demo.rvs文件
 
-<img src="../img/450_15.png" style="zoom: 50%;" />
+<img src="../img/450_15.png" style="zoom: 70%;" />
 
 然后点击运行
 
@@ -43,7 +43,7 @@
 
 运行location_demo文件夹中的demo_code文件夹中的demo.py文件
 
-<img src="../img/450_16.png" style="zoom: 50%;" />
+<img src="../img/450_16.png" style="zoom: 85%;" />
 
 
 

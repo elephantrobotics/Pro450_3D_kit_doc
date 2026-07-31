@@ -29,11 +29,11 @@ robot_ip要改成机械臂的实际的无线IP -->
 
 将与相机连接的有线网卡IP改成自动分配，相机与电脑的连接必须是直连，不能通过USB转网口转接器连接
 
-<img src="../img/new1.png" style="zoom: 50%;" />
+<img src="../img/new1.png" style="zoom: 30%;" />
 
 相机参数文件在RobotVisionSuite的安装位置的runtime\location_demo目录下
 
-<img src="../img/450_19.png" style="zoom: 50%;" />
+<img src="../img/450_19.png" style="zoom: 48%;" />
 
 参考下面动态图，打开相机调参软件，连接相机,对相机参数进行加载,当相机参数加载完成后，一定要关闭相机调参软件，否则会导致后面出现相机资源占用的问题
 

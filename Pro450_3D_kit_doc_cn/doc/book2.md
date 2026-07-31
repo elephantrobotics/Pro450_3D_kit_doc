@@ -12,7 +12,7 @@
 
 参考pro450开箱视频的0-30秒片段完成机械臂的安装，以及对USB转网口转接器的IP地址分配
 
-<video width="800" controls>
+<video width="600" controls>
   <source src="https://download.elephantrobotics.com/software/MyCobot%20Pro%20450/myCobot%20Pro%20450%20%E5%BC%80%E7%AE%B1%E8%A7%86%E9%A2%91%200720%2001.mp4">
 </video>
 

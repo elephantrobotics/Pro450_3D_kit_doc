@@ -14,9 +14,9 @@
 ## 1.1 python 安装
 建议安装python3.8以上版本，Python官方下载地址: https://www.python.org/downloads/
 
-<img src="../img/pythondownload1.jpg" style="zoom: 50%;" />
+<img src="../img/pythondownload1.jpg" style="zoom: 26%;" />
 
-<img src="../img/pythondownload2.jpg" style="zoom: 50%;" />
+<img src="../img/pythondownload2.jpg" style="zoom: 60%;" />
 
 <img src="../img/pythondownload3.jpg" style="zoom: 50%;" />
 
@@ -31,7 +31,7 @@ pip install pymycobot==4.0.6
 
 在浏览器输入下载地址，软件包下载完成后，解压即可
 
-<img src="../img/450_9.png" style="zoom: 50%;" />
+<img src="../img/450_9.png" style="zoom: 20%;" />
 
 <br/>
 
@@ -42,40 +42,40 @@ pip install pymycobot==4.0.6
 
 在软件包中，找到RVS安装程序，双击程序进行安装
 
-<img src="../img/new101.png" style="zoom: 40%;" />
+<img src="../img/new101.png" style="zoom: 50%;" />
 
 <br/>
 
-<img src="../img/p1_2_3.png" style="zoom: 80%;" />
+<img src="../img/p1_2_3.png" style="zoom: 130%;" />
 
 <br/>
 
-<img src="../img/p1_2_4.png" style="zoom: 50%;" />
+<img src="../img/p1_2_4.png" style="zoom: 80%;" />
 
 路径不要有中文，建议安装C盘以外的其他盘
 
-<img src="../img/p1_2_5.png" style="zoom: 50%;" />
+<img src="../img/p1_2_5.png" style="zoom: 80%;" />
 
 <br/>
 
-<img src="../img/p1_2_7.png" style="zoom: 50%;" />
+<img src="../img/p1_2_7.png" style="zoom: 80%;" />
 
 <br/>
-<img src="../img/p1_2_8.png" style="zoom: 50%;" />
+<img src="../img/p1_2_8.png" style="zoom: 80%;" />
 
 **运行并激活（申请版许可证）**
 
 双击快捷方式，首次启动RVS。在启动动画结束后，会出现以下提示。
 
-<img src="../img/p1_3_3.png" style="zoom: 70%;" />
+<img src="../img/p1_3_3.png" style="zoom: 85%;" />
 
 点击 “OK”，在许可证对话框点击 “Copy”，复制机器码，将机器码发给我们售后同事
 
-<img src="../img/p1_3_32.png" style="zoom: 100%;" />
+<img src="../img/p1_3_32.png" style="zoom: 200%;" />
 
 我们收到机器码后的，会提供一个激活文件，激活文件是一个license.txt，或者是一段字符串，自行保存为 license.txt，请将这个 txt 文件拷贝到 RVS 安装目录下的 license 目录下。
 
-<img src="../img/image-20230713161953575.png" style="zoom: 70%;" />
+<img src="../img/image-20230713161953575.png" style="zoom: 60%;" />
 
 ## 1.5 相机调参软件
 
@@ -101,7 +101,7 @@ pip install pymycobot==4.0.6
 
 <img src="../img/new103.png" style="zoom: 50%;" />
 
-<img src="../img/450_10.png" style="zoom: 70%;" />
+<img src="../img/450_10.png" style="zoom: 30%;" />
 
 ---
 
