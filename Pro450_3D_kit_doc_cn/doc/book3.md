@@ -31,16 +31,28 @@ robot_ip要改成机械臂的实际的无线IP -->
 
 <img src="../img/new1.png" style="zoom: 50%;" />
 
+相机参数文件在RobotVisionSuite的安装位置的runtime\location_demo目录下
 
-打开相机调参软件，连接相机
+<img src="../img/450_19.png" style="zoom: 50%;" />
+
+参考下面动态图，打开相机调参软件，连接相机,对相机参数进行加载,当相机参数加载完成后，一定要关闭相机调参软件，否则会导致后面出现相机资源占用的问题
+
+<img src="../img/450_cam.gif" style="zoom: 100%;" />
+
+**注意事项**：机械臂每次重新开关机后，都需要对相机的参数进行重新调整，确保点云的成像质量，否则会出现点云匹配失败的情况
+
+
+
+<!-- 打开相机调参软件，连接相机
+
 
 <img src="../img/new3.png" style="zoom: 50%;" />
 
 先点击相机的彩色图和深度图获取按钮，然后点击彩色点云模式，调整相机的增益参数，可根据实际情况调节，Left lR Stream和Right IR Stream里面的参数调整要保持一致。点云调整的和图片中的效果即可。调整完后务必要关掉相机参数调整软件
 
-<img src="../img/new2.png" style="zoom: 50%;" />
+<img src="../img/new2.png" style="zoom: 50%;" /> -->
 
-**注意事项**：相机每次重新上电后，需要对相机的参数进行重新调整，确保点云的成像质量
+
 
 <!-- <video width="800" controls>
   <source src="../img/Operating_steps.mp4" type="video/mp4">
@@ -85,3 +97,6 @@ robot_ip要改成机械臂的实际的无线IP -->
 
 <img src="../img/rvs7.png" style="zoom: 50%;" /> -->
 
+---
+
+[← 上一章](./book2.md) | [下一章 →](./hand_eye.md)

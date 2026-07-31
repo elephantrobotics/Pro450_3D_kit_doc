@@ -60,3 +60,7 @@
 在RVS的Percipio3DMatching算子中，modelRelSamplingDistance和sceneRelSamplingDistance用于调整模板匹配过程中的点云采样间隔，采样间隔越小，匹配耗时就会增加，单个工件完整的识别抓取耗时就会变长，但是可以提高工件的识别正确率。正常情况下无需调整，直接使用即可，若要调整，两个参数的调整数值要一样
 
 <img src="../img/new10.png" style="zoom: 50%;" /> -->
+
+---
+
+[← 上一章](./hand_eye.md) | [下一章 →](./1.1-introduction.md)

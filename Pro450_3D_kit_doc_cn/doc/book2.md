@@ -111,3 +111,7 @@
 安装完的效果图
 
 <img src="../img/show.png" style="zoom: 50%;" /> -->
+
+---
+
+[← 上一章](./book1.md) | [下一章 →](./book3.md)
