@@ -105,4 +105,4 @@ pip install pymycobot==4.0.6
 
 ---
 
-[← 上一章](./1.1-introduction.md) | [下一章 →](./book2.md)
+[← 上一章](./readme.md) | [下一章 →](./book2.md)
