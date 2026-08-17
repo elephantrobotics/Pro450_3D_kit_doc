@@ -4,11 +4,11 @@
 
 ## Introduction
 
-- [1 Elephant Robot](README.md)
+<!-- - [1 Elephant Robot](README.md)
 
-  * [1 Company Introduction](doc/1.1-introduction.md)
+  * [1 Company Introduction](doc/1.1-introduction.md) -->
 
-- [2 Pro3D Suite User Guide](doc/readme.md)
+- [Pro3D Suite User Guide](doc/readme.md)
 
   * [1 Software Environment Setup](doc/book1.md)
 

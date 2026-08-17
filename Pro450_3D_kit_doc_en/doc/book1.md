@@ -27,11 +27,21 @@ pip install pymycobot==4.0.6
 ```
 
 ## 1.3 Software package acquisition
-Download address: https://github.com/elephantrobotics/Pro450_3D_Kit
+<!-- Download address: https://github.com/elephantrobotics/Pro450_3D_Kit
 
 Enter the download address in the browser, and after the software package is downloaded, unzip it.
 
-<img src="../img/450_9.png" style="zoom: 20%;" />
+<img src="../img/450_9.png" style="zoom: 20%;" /> -->
+
+Refer to the following article to install Git:
+
+https://blog.csdn.net/2301_80035882/article/details/155000175
+
+Open your terminal and enter the following command to obtain the package:
+
+```bash 
+git clone https://github.com/elephantrobotics/Pro450_3D_Kit.git
+```
 
 <br/>
 

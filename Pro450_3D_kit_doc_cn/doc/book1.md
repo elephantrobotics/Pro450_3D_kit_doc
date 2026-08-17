@@ -27,13 +27,22 @@ pip install pymycobot==4.0.6
 ```
 
 ##  1.3 软件包获取
-下载地址：https://github.com/elephantrobotics/Pro450_3D_Kit
+
+参考下面文章地址安装git
+https://blog.csdn.net/2301_80035882/article/details/155000175
+
+打开终端，输入下面指令获取软件包
+
+```bash
+git clone https://github.com/elephantrobotics/Pro450_3D_Kit.git
+```
+<!-- 下载地址：https://github.com/elephantrobotics/Pro450_3D_Kit
 
 在浏览器输入下载地址，软件包下载完成后，解压即可
 
 <img src="../img/450_9.png" style="zoom: 20%;" />
 
-<br/>
+<br/> -->
 
 
 ##  1.4 RVS安装
