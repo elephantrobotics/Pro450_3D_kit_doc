@@ -7,7 +7,7 @@
   * [1 公司简介](doc/1.1-introduction.md) -->
 
 
-- [Pro3D套装使用说明](doc/readme.md)  
+- [Pro3D套装使用说明]()  
   * [1 软件环境搭建](doc/book1.md)
   * [2 硬件安装](doc/book2.md)
   * [3 单元测试](doc/book3.md)
